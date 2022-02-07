@@ -1,0 +1,42 @@
+*{
+    color: black !important;
+    font-family: sans-serif !important;
+}
+#form{
+    display: inline-block;
+    margin-left: auto;
+    padding: 1rem 4rem;
+    text-align: left;
+}
+#main{
+    margin-left: auto;
+}
+
+#result{
+    color: rgb(247, 247, 247);
+}
+
+#form button{
+    padding: 3px 25px;
+    border: 0.5px solid green;
+    font-size: 17px;
+    
+}
+#form input{
+    font-size: 13px;
+    padding: 5px 25px;
+    outline: none;
+    border: 1px solid black;
+
+}
+#rt{
+    font-size: 17px;
+    color: rgb(29, 238, 29);
+
+}
+
+#main{
+    width: 19rem;
+    margin: auto;
+    
+}
